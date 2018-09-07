@@ -1,0 +1,8 @@
+2018-09-07 19:02:19.930  INFO 4492 --- [main] com.major.mail.service.MailServiceTest   : Starting MailServiceTest on caolinjie-PC with PID 4492 (started by caolinjie in E:\05_java\spring-boot-mail)
+2018-09-07 19:02:19.932  INFO 4492 --- [main] com.major.mail.service.MailServiceTest   : No active profile set, falling back to default profiles: default
+2018-09-07 19:02:19.981  INFO 4492 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@4a83a74a: startup date [Fri Sep 07 19:02:19 CST 2018]; root of context hierarchy
+2018-09-07 19:02:21.958  INFO 4492 --- [main] com.major.mail.service.MailServiceTest   : Started MailServiceTest in 2.506 seconds (JVM running for 3.653)
+2018-09-07 19:02:22.078  INFO 4492 --- [main] com.major.mail.service.MailService       : hello!
+2018-09-07 19:02:22.079  WARN 4492 --- [main] com.major.mail.service.MailService       : hello!
+2018-09-07 19:02:22.079 ERROR 4492 --- [main] com.major.mail.service.MailService       : hello!
+2018-09-07 19:02:22.084  INFO 4492 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@4a83a74a: startup date [Fri Sep 07 19:02:19 CST 2018]; root of context hierarchy
