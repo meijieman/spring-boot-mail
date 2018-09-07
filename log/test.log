@@ -1,8 +1,0 @@
-2018-09-07 19:01:23.579  INFO 5676 --- [main] com.major.mail.service.MailServiceTest   : Starting MailServiceTest on caolinjie-PC with PID 5676 (started by caolinjie in E:\05_java\spring-boot-mail)
-2018-09-07 19:01:23.609  INFO 5676 --- [main] com.major.mail.service.MailServiceTest   : No active profile set, falling back to default profiles: default
-2018-09-07 19:01:23.761  INFO 5676 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@4c60d6e9: startup date [Fri Sep 07 19:01:23 CST 2018]; root of context hierarchy
-2018-09-07 19:01:26.101  INFO 5676 --- [main] com.major.mail.service.MailServiceTest   : Started MailServiceTest in 3.214 seconds (JVM running for 4.594)
-2018-09-07 19:01:26.988  INFO 5676 --- [main] com.major.mail.service.MailService       : hello!
-2018-09-07 19:01:26.988  WARN 5676 --- [main] com.major.mail.service.MailService       : hello!
-2018-09-07 19:01:26.989 ERROR 5676 --- [main] com.major.mail.service.MailService       : hello!
-2018-09-07 19:01:27.000  INFO 5676 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@4c60d6e9: startup date [Fri Sep 07 19:01:23 CST 2018]; root of context hierarchy
